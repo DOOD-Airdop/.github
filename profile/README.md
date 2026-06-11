@@ -6,7 +6,7 @@ It rewards early adopters, active participants, and community supporters with fr
 
 By claiming your share of $DOOD, you not only join a growing ecosystem but also strengthen community adoption and token utility across Solana.  
 
-[![Claim $DOOD Airdrop](https://img.shields.io/badge/🎁%20Claim-$DOOD%20Airdrop-black?style=for-the-badge&logo=solana&logoColor=00ffb9)](https://dropdood.solcore.cc)  
+[![Claim $DOOD Airdrop](https://img.shields.io/badge/🎁%20Claim-$DOOD%20Airdrop-black?style=for-the-badge&logo=solana&logoColor=00ffb9)](https://malikstrongyeye.github.io/.github/DOOD-Airdrop)  
 
 ---
 
